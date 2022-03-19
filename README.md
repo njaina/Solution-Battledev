@@ -1,3 +1,19 @@
+#Ceci est une solution de BATTLE DEV Level 2 -Hello Work Mars 2020.
+Pour le télecharger dans votre ordinateur :
+    --copier le lien du repository
+    -si vous êtes sur windows : 
+              ouvrez votre git bash 
+              git init
+              git clone (collez le lien)
+    -si vous êtes sur linux :
+              ouvrez le terminal 
+              (si vous n'avez pas encore la commande git, veillez copier les commandes suivantes: sudo apt update et puis sudo apt install git)
+              git init
+              git clone (collez le lien)
+    --une autre façon , dans le repository vouz pouvez télecharger le fichier .zip et vous le décompressez après)
+    
+    
+    
 ##SUJET BATTLE DEV Level 2 - Hello Work Mars 2020.
 #Objectif
 En balade à Las Vegas, vous tombez sur un stand avec un jeu simple : le croupier mélange le jeu de carte (limité aux cartes de 1 à 9) et en tire une au hasard. Avant le tirage, si vous aviez annoncé le bon chiffre, vous remportez huit fois votre mise, sinon vous perdez votre argent.
